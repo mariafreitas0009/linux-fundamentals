@@ -1,0 +1,17 @@
+# Linux Fundamentals
+
+Repositório com meus exercícios e anotações de Linux/Terminal.
+
+##  O que eu pratiquei
+- Navegação no sistema (cd, ls, pwd)
+- Permissões (chmod)
+- Processos (ps, kill)
+- Edição de arquivos (nano, cat)
+- Scripts e logs
+
+## Ambiente
+- Ubuntu / WSL
+- Bash
+
+## Autora
+Maria Freitas
